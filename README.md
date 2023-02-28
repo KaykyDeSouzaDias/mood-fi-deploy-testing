@@ -20,4 +20,4 @@ This repository is for deploy testing. All the versions presented here **are not
 
 <h2>Where is the stable version?</h2>
 
-You can check out the <a href="https://moodfi-download.netlify.app/">stable version</a> here
+You can check out the <a href="https://github.com/KaykyDeSouzaDias/Mood-Fi">stable version</a> here
